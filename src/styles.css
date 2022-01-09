@@ -1,0 +1,20 @@
+
+.select{
+  color: black;
+}
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.input{
+  background-color: blanchedalmond;
+}
+
+.TableContainer{
+  align-items: center;
+  padding-right: 50%;
+  justify-content: center;
+  padding-left: 50%;
+  display: flex;
+  background-color: blanchedalmond;
+}
